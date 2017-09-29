@@ -1,0 +1,21 @@
+logger created successfully
+Réception de la request /index
+Réception de la request /index
+Réception de la request /favicon.ico
+Réception de la request /index2
+Réception de la request /index2
+Réception de la request /favicon.ico
+Réception de la request /index1
+Réception de la request /index1
+détection error (voir fichier error)/index1
+Réception de la request /favicon.ico
+Réception de la request /index1
+Réception de la request /index1
+détection error (voir fichier error)/index1
+Réception de la request /index3
+Réception de la request /index3
+détection error (voir fichier error)/index3
+logger created successfully
+Réception de la request /index3
+Réception de la request /index3
+détection error (voir fichier error)/index3

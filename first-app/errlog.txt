@@ -1,0 +1,20 @@
+{ Error: ENOENT: no such file or directory, open 'D:\web\wamp64\www\FormationDL\NODEJS\first-app\index1.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\web\\wamp64\\www\\FormationDL\\NODEJS\\first-app\\index1.html' }
+{ Error: ENOENT: no such file or directory, open 'D:\web\wamp64\www\FormationDL\NODEJS\first-app\index1.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\web\\wamp64\\www\\FormationDL\\NODEJS\\first-app\\index1.html' }
+{ Error: ENOENT: no such file or directory, open 'D:\web\wamp64\www\FormationDL\NODEJS\first-app\index3.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\web\\wamp64\\www\\FormationDL\\NODEJS\\first-app\\index3.html' }
+{ Error: ENOENT: no such file or directory, open 'D:\web\wamp64\www\FormationDL\NODEJS\first-app\index3.html'
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'D:\\web\\wamp64\\www\\FormationDL\\NODEJS\\first-app\\index3.html' }

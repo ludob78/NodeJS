@@ -1,0 +1,19 @@
+<div class="row">
+    <ul class='collapsible' data-collapsible='accordion'>
+        <% datas_return.forEach(function (data) { %><!--2e paramètre est l'indice i-->
+        <li style="background-color: lightgrey;box-shadow: 1px 1px 2px #888888;border-radius: 5px;padding: 10px;margin-bottom:20px;">
+            <div class="collapsible-header">
+                <div class="col s1"><span class="badge"><%= data.id %></span></div>
+                <div class="col s7"><%= data.titre %></div>
+                <div class="col s2 right">
+                    <a class="btn orange edit_button"><i class="material-icons">edit</i></a>
+                </div>
+                <div class="col s2 right">
+                    <a class="btn red delete_button"><i class="material-icons">delete</i></a>
+                </div>
+            </div>
+            <div class="collapsible-body"><p><%= data.description %></p></div>
+        </li>
+        <% }); %>
+    </ul>
+</div>
